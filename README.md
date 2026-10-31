@@ -1,2 +1,3 @@
 # screencom
-Placeholder repo for the screencom project
+
+Placeholder package. The `screencom` name is reserved for a future project.
